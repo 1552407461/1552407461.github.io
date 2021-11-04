@@ -42,4 +42,24 @@
         <tag>日常</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Next主题美化</title>
+    <url>/2021/11/04/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</url>
+    <content><![CDATA[<p> #这两天继续给blog添加一些功能</p>
+<span id="more"></span>
+
+<p>评论功能Valine</p>
+<p>使用Next第三方服务进行搜索功能</p>
+<p>添加不蒜子统计功能</p>
+<p>添加字数统计功能</p>
+<p>复习Git上传功能</p>
+<p><img src="https://i.loli.net/2021/11/04/bCoRe23W5vSdmf1.jpg" alt="屏幕截图 2021-11-04 094940.jpg"></p>
+]]></content>
+      <categories>
+        <category>technology</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
 </search>
